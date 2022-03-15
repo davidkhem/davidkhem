@@ -2,9 +2,10 @@
 
 ## I really enjoy learning languages and frameworks like JavaScript and React. I also enjoy wireframing, ui, ux, and design in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
+[website]: https://davidkhem.com
+[twitter]: https://twitter.com/dkhem
+[linkedin]: https://linkedin.com/in/davidkhem1

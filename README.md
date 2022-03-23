@@ -1,6 +1,6 @@
 ## Hi, I'm David 👋
 
-## I really enjoy learning languages and frameworks like JavaScript and React. I also enjoy wireframing, ui, ux, and design in general.
+## I really enjoy learning languages and frameworks like JavaScript and React. I also enjoy wireframing, UI, UX, and design.
 
 🏡 [website][website] **|** 
 🏡 [dev.to] **|** 
